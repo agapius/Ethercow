@@ -13,6 +13,5 @@ MetasploitCow displays the amount of crypto funds
   
 ### ToDo:
   1. More pythonic code (e.g. the json conversion might be obsolete)
-  2. Data from coinmarketcap
+  2. Data from coinmarketcap DONE
   3. Source wealth data from personal public key
-  4. Support for more currencies /eventhough its supposed to stay super simple
