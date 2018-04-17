@@ -25,3 +25,4 @@ CowSay the amount of crypto funds:
   1. More pythonic code (e.g. the json conversion might be obsolete)
   2. Data from coinmarketcap DONE
   3. Source wealth data from personal public key
+  4. Animate?
