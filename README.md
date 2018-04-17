@@ -1,10 +1,9 @@
 # Ethercow
 MetasploitCow displays the amount of crypto funds:
 
-
-&nbsp; /----------\\ \
-\<  100.000 €   \> \
-&nbsp;&nbsp;\\----------/
+     /----------\
+    <  100.000 € > 
+     \----------/
 
         \   ^__^
          \  (oo)\_______
