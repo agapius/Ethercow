@@ -1,5 +1,16 @@
 # Ethercow
-MetasploitCow displays the amount of crypto funds
+MetasploitCow displays the amount of crypto funds:
+
+
+&nbsp; /----------\\ \
+\<  100.000 €   \> \
+&nbsp;&nbsp;\\----------/
+
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\\
+                 ||---w |
+                 ||    ||
 
 ### What it does:
   1. The script loads current prices for btc and eth from bitstamp using the requests library
