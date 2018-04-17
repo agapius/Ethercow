@@ -1,5 +1,5 @@
 # Ethercow
-MetasploitCow displays the amount of crypto funds:
+CowSay displays the amount of crypto funds:
 
      /----------\
     <  100.000 € > 
