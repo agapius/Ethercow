@@ -1,5 +1,5 @@
 # Ethercow
-CowSay displays the amount of crypto funds:
+CowSay the amount of crypto funds:
 
      /----------\
     <  100.000 € > 
