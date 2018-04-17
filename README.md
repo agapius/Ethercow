@@ -2,7 +2,7 @@
 CowSay the amount of crypto funds:
 
      /----------\
-    <  100.000 € > 
+    <  133.700 € > 
      \----------/
 
         \   ^__^
